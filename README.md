@@ -1,1 +1,2 @@
-# Type-to-speak
+Type-to-speak The application is a simple project developed using HTML, CSS, and JavaScript. It is a simple mini-project. This project helps you to automatically convert your text into speech form. This is like magic, you can just type any word that you want and hear it in different accents
+![Screenshot 2021-11-24 100344](https://user-images.githubusercontent.com/85170432/143190696-c6efc45a-0a43-42b9-abb3-22dd87574baf.jpg)
